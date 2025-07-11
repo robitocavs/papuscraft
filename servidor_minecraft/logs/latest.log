@@ -1,0 +1,47 @@
+[04:43:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:43:24] [ServerMain/INFO]: No existing world data, creating new world
+[04:43:25] [ServerMain/INFO]: Loaded 1373 recipes
+[04:43:25] [ServerMain/INFO]: Loaded 1484 advancements
+[04:43:26] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[04:43:26] [Server thread/INFO]: Loading properties
+[04:43:26] [Server thread/INFO]: Default game type: SURVIVAL
+[04:43:26] [Server thread/INFO]: Generating keypair
+[04:43:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:43:26] [Server thread/INFO]: Using epoll channel type
+[04:43:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:43:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:43:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:43:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:43:26] [Server thread/INFO]: Preparing level "world"
+[04:43:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:43:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[04:43:51] [Server thread/INFO]: Time elapsed: 8483 ms
+[04:43:51] [Server thread/INFO]: Done (25.480s)! For help, type "help"
+[04:44:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:46:20] [Server thread/INFO]: rooobiiii[/100.124.118.31:60486] logged in with entity id 16 at (10.5, 75.0, 84.5)
+[04:46:20] [Server thread/INFO]: rooobiiii joined the game
+[04:46:23] [Server thread/INFO]: Deadgonza029[/100.83.46.76:54992] logged in with entity id 36 at (16.5, 76.0, 76.5)
+[04:46:23] [Server thread/INFO]: Deadgonza029 joined the game
+[04:47:19] [Server thread/INFO]: rooobiiii was slain by Deadgonza029
+[04:50:36] [Server thread/INFO]: Made rooobiiii a server operator
+[04:51:22] [Server thread/INFO]: [rooobiiii: Created new objective [vida]]
+[04:51:34] [Server thread/INFO]: [rooobiiii: Set display slot list to show objective vida]
+[04:52:27] [Server thread/INFO]: [rooobiiii: Gamerule playersSleepingPercentage is now set to: 1]
+[04:52:31] [Server thread/INFO]: [rooobiiii: Made rooobiiii no longer a server operator]
+[04:53:12] [Server thread/INFO]: Deadgonza029 has made the advancement [Stone Age]
